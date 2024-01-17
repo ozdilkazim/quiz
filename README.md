@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ozdilkazim.github.io/quiz/">
-    <img src="SS.jpg" width=500>
+    <img src="ss.jpg" width=500>
   </a>
 
   <h3 align="center">Quiz Game by using JavaScript</h3>
