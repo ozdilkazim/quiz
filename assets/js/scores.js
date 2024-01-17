@@ -1,4 +1,4 @@
-//   When the game ends, it should display their score and give the user the ability to save their initials and their score
+//   When the game ends, it should display their  score and give the user the ability to save their initials and their score
 var initial = document.querySelector(`#initials`);
 var submitBtn = document.querySelector(`#submit`);
 var scoreRecord = document.querySelector(`#highscores`);
